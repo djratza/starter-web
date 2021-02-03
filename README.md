@@ -8,6 +8,10 @@ This is a introduction
 
 ## Purpose
 
+Added porpose
+
 ## Deployment
+
+This is a sample of deployment
 
 ## How To Contribute
