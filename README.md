@@ -16,6 +16,8 @@ This is a sample of deployment
 
 ## How To Contribute
 
+Please fork this repo ant ehn issue Pull Requests for review.
+
 ### Copyrights
 
 Git.Training.2020 Optwr
