@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+   Razvan Soare razvan.soare@test.com @ioio
 
 # THANKS
 
