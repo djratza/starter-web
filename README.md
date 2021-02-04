@@ -1,6 +1,6 @@
 # Starter Web Project 
 
-This is a simple website project for showing how git works
+This is a simple website project for showing how git works. Adding a line for rebasing example
 
 ## Introduction
 
