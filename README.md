@@ -15,3 +15,7 @@ Added porpose
 This is a sample of deployment
 
 ## How To Contribute
+
+### Copyrights
+
+Git.Training.2020 Optwr
