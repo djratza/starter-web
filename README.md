@@ -20,4 +20,4 @@ Please fork this repo ant ehn issue Pull Requests for review.
 
 ### Copyrights
 
-Git.Training.2020 Optwr
+Git.Training.2020 All rights reserved.
